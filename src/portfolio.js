@@ -280,7 +280,7 @@ const contactPageData = {
     title: "聯絡方式",
     profile_image_path: "profile.gif", //
     description:
-      "若您有架設網站，或 Javascript、Python 等程式的需求，我很樂意為您協助 Email: ggg580905@gmail.com",
+      "若您有架設網站，或 Javascript、Python 等程式的需求，我很樂意為您協助 Email: thefreelancertim@gmail.com",
   },
   blogSection: {
     // title: "Blogs",
