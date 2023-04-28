@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": "https://Timisme.github.io/timswebsite",
+  "name": "timswebsite",
+  "homepage": "https://timisme.github.io/timswebsite",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
